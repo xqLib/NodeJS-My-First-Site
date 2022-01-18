@@ -1,0 +1,23 @@
+body {
+  background-color: lightgray;
+  font-family: Arial;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  justify-content: center;
+}
+
+.card {
+  border-width: medium;
+  border-color: tomato;
+  border-style: outset;
+  border-radius: 10px;
+  background-color: white;
+  width: 600px;
+  padding: 20px;
+}
+.logo {
+  width: 100px;
+}
